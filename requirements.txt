@@ -3,3 +3,4 @@ matplotlib
 deepface
 opencv-python-headless
 streamlit
+tf-keras
